@@ -1,0 +1,10 @@
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\bin\Debug\USB_ESP32.exe.config
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\bin\Debug\USB_ESP32.exe
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\bin\Debug\USB_ESP32.pdb
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\USB_ESP32.Form1.resources
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\USB_ESP32.Properties.Resources.resources
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\USB_ESP32.exe
+C:\Users\joao_\Documents\PROGRAMACAO\Repositorios\RS485_template\Interface\obj\Debug\USB_ESP32.pdb

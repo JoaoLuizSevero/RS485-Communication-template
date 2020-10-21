@@ -1,0 +1,10 @@
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\bin\Debug\USB_ESP32.exe.config
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\bin\Debug\USB_ESP32.exe
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\bin\Debug\USB_ESP32.pdb
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.csprojAssemblyReference.cache
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.Form1.resources
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.Properties.Resources.resources
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.csproj.GenerateResource.cache
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.exe
+C:\Users\joao_\Documents\PROGRAMACAO\C#\USB_ESP32\USB_ESP32\obj\Debug\USB_ESP32.pdb
