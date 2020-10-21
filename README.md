@@ -22,7 +22,7 @@ We use two **Arduino NANO** as nodes, each one with a **MAX485** module and a re
 
 The nodes keep listening until the message comes via a **software serial**, and when it comes, he verify if the message is for him. In positive case, he verify what command is and execute. Note that if its a **ON/OFF** command he just execute, but if its a **request** he change to transmit mode for send the message.
 
-![Nodes](https://github.com/JoaoLuizSevero/RS485_template/blob/main/assets/foto1.png)
+![Nodes](https://github.com/JoaoLuizSevero/RS485_template/blob/main/assets/foto1.jpeg)
 
 ### Sketch 
 ```
